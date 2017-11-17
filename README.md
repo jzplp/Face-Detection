@@ -9,7 +9,7 @@ main.m 为主函数
 
 ========================================
 
-(https://github.com/jzplp/Face-Detection/ReadmeImage/process.png)
+![image](https://github.com/jzplp/Face-Detection/ReadmeImage/process.png)
 
 
 训练样本：
