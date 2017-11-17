@@ -9,8 +9,15 @@ main.m 为主函数
 
 ========================================
 
+实验过程：
+
 ![image](https://github.com/jzplp/Face-Detection/blob/master/ReadmeImage/process.png)
 
+实验结果;
+
+![image](https://github.com/jzplp/Face-Detection/blob/master/ReadmeImage/result.png)
+
+========================================
 
 训练样本：
 MIT人脸数据库
