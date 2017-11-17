@@ -1,6 +1,9 @@
 # Face-Detection
 本科毕业设计 基于Haar特征与AdaBoost算法的人脸检测的实现
 
+main.m 为主函数
+
+里面包含训练和检测的主要操作说明和用法。
 
 训练样本：
 MIT人脸数据库
